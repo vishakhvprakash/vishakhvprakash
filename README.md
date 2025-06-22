@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vishakhvprakash
 - 👀 I’m interested in blockcchain, ai, marketing, stock,crypto.
-- 🌱 I’m currently learning ... programing,ai ml.
+- 🌱 I’m currently learning  programing,ai ml.
 - 💞️ I’m looking to collaborate on ... blockchain developer.
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
